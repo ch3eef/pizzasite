@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 import Countdown from 'react-countdown';
 
-const endingDate = new Date("2024-1-14")
+const endingDate = new Date("2024-7-14")
 
 const CountDown = () => {
   return (
